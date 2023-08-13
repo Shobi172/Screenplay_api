@@ -15,7 +15,6 @@ A backend API for managing characters, relations, and properties in a screenplay
 - [API Documentation](#api-documentation)
 - [Testing](#testing)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
