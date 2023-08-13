@@ -42,7 +42,7 @@ The Screenplay API provides endpoints to manage characters, relations between ch
 
    git clone https://github.com/Shobi172/Screenplay_api.git
 
-   cd screenplay-api
+   cd Screenplay_api
 
 
 2. Install dependencies: 
@@ -78,7 +78,7 @@ The Screenplay API provides endpoints to manage characters, relations between ch
 3. API documentation is available at `http://localhost:5000/api-docs`.
 
 
-### Reports
+## Reports
 
 You can generate and download reports in different formats for the characters in the screenplay:
 
