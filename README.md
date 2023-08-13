@@ -41,32 +41,33 @@ The Screenplay API provides endpoints to manage characters, relations between ch
 
 
    git clone https://github.com/your-username/screenplay-api.git
+
    cd screenplay-api
 
 
 2. Install dependencies: 
 
-`npm install`
+   `npm install`
 
 
 3. Create a `.env` file in the project root directory and set the following environment variables:
 
 
-PORT=5000
+   PORT=5000
 
-MONGODB_URI=your-mongodb-connection-uri
+   MONGODB_URI=your-mongodb-connection-uri
 
-JWT_SECRET=your-jwt-secret
+   JWT_SECRET=your-jwt-secret
 
-CLOUDINARY_CLOUD_NAME = your-cloudinary-cloud-name
+   CLOUDINARY_CLOUD_NAME = your-cloudinary-cloud-name
 
-CLOUDINARY_API_KEY = your-cloudinary-api-key
+   CLOUDINARY_API_KEY = your-cloudinary-api-key
 
-CLOUDINARY_API_SECRET = your-cloudinary-api-secret
+   CLOUDINARY_API_SECRET = your-cloudinary-api-secret
 
 4. Start the server:
 
-`npm start`
+   `npm start`
 
 
 
