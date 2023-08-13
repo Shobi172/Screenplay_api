@@ -40,7 +40,7 @@ The Screenplay API provides endpoints to manage characters, relations between ch
 1. Clone the repository:
 
 
-   git clone https://github.com/your-username/screenplay-api.git
+   git clone https://github.com/Shobi172/Screenplay_api.git
 
    cd screenplay-api
 
