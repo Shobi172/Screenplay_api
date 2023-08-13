@@ -1,6 +1,5 @@
 # Screenplay API
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A backend API for managing characters, relations, and properties in a screenplay.
 
@@ -48,22 +47,27 @@ The Screenplay API provides endpoints to manage characters, relations between ch
 
 2. Install dependencies: 
 
-npm install
+`npm install`
 
 
 3. Create a `.env` file in the project root directory and set the following environment variables:
 
 
 PORT=5000
+
 MONGODB_URI=your-mongodb-connection-uri
+
 JWT_SECRET=your-jwt-secret
+
 CLOUDINARY_CLOUD_NAME = your-cloudinary-cloud-name
+
 CLOUDINARY_API_KEY = your-cloudinary-api-key
+
 CLOUDINARY_API_SECRET = your-cloudinary-api-secret
 
 4. Start the server:
 
-npm start
+`npm start`
 
 
 
@@ -101,11 +105,11 @@ The API documentation is generated using Swagger. You can access the Swagger UI 
 
 The project uses Jest for testing. To run tests, use the following command:
 
-npm test
+`npm test`
 
 
 
-Contributing
+## Contributing
 
 Contributions are welcome! To contribute to this project, follow these steps:
 
